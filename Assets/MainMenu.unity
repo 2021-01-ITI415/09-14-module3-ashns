@@ -217,6 +217,18 @@ MonoBehaviour:
           m_StringArgument: SampleScene2
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 8261205653205060652, guid: 38a8131eac17f4f1a8e06f9b3f8643fd, type: 3}
+        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+        m_MethodName: LoadSceneByName
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 01-Probuilder
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &40534635
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -426,6 +438,18 @@ MonoBehaviour:
           m_IntArgument: 1
           m_FloatArgument: 0
           m_StringArgument: SampleScene2
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 8261205653205060652, guid: 38a8131eac17f4f1a8e06f9b3f8643fd, type: 3}
+        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+        m_MethodName: LoadSceneByName
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 03-Terrain
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &78865197
@@ -771,6 +795,18 @@ MonoBehaviour:
           m_IntArgument: 1
           m_FloatArgument: 0
           m_StringArgument: SampleScene2
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 102900000, guid: 55f7f0d8e936348338230c89812f8e11, type: 3}
+        m_TargetAssemblyTypeName: UnityEngine.Object, UnityEngine
+        m_MethodName: set_name
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Audio
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &399937611
@@ -1550,6 +1586,18 @@ MonoBehaviour:
           m_StringArgument: SampleScene2
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 102900000, guid: 91816fc936dc449c9aa796d22b2266c7, type: 3}
+        m_TargetAssemblyTypeName: UnityEngine.Object, UnityEngine
+        m_MethodName: set_name
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Lighting
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1489571335
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1759,6 +1807,18 @@ MonoBehaviour:
           m_IntArgument: 1
           m_FloatArgument: 0
           m_StringArgument: SampleScene2
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 8261205653205060652, guid: 38a8131eac17f4f1a8e06f9b3f8643fd, type: 3}
+        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+        m_MethodName: LoadSceneByName
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 02-SNAPS
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1819811435
@@ -2089,6 +2149,18 @@ MonoBehaviour:
           m_IntArgument: 1
           m_FloatArgument: 0
           m_StringArgument: SampleScene2
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 8261205653205060652, guid: 38a8131eac17f4f1a8e06f9b3f8643fd, type: 3}
+        m_TargetAssemblyTypeName: UnityEngine.Object, UnityEngine
+        m_MethodName: set_name
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Particles
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2139397270
